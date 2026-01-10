@@ -1,5 +1,5 @@
 # Projekt ThermoriaVerse
-[English](.github/profile/README.md)
+[English](./README.md)
 
 **Gra w procesie rozwoju, typu sandbox, skoncentrowana na rozwoju, eksploracji i osiągnięciach gracza, jest budowana tutaj w C#.**
 

@@ -30,20 +30,20 @@ Launcher: [AthermoBase Launcher](https://github.com/MarcinDoga/AthermoBase)
 ![Gameplay - trees and shadows](images/image1.png)
 trees and shadows
 #
-![Gameplay - flying around the granite mountains](ThermoriaVerse/images/image2.png)
+![Gameplay - flying around the granite mountains](images/image2.png)
 flying around the granite mountains
 #
-![Gameplay - biomes showcase](ThermoriaVerse/images/image3.png)
+![Gameplay - biomes showcase](images/image3.png)
 biomes showcase
 #
-![Gameplay - flying around the snowy granite mountains](ThermoriaVerse/images/image4.png)
+![Gameplay - flying around the snowy granite mountains](images/image4.png)
 flying around the snowy granite mountains
 #
-![Gameplay - flying around the snowy mountains](ThermoriaVerse/images/image5.png)
+![Gameplay - flying around the snowy mountains](images/image5.png)
 flying around the snowy mountains
 #
-![Gameplay - shadows under the trees](ThermoriaVerse/images/image6.png)
+![Gameplay - shadows under the trees](images/image6.png)
 shadows under the trees
 #
-![Gameplay - under the pine trees](ThermoriaVerse/images/image7.png)
+![Gameplay - under the pine trees](images/image7.png)
 under the pine trees

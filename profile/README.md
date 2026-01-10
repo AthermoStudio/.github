@@ -27,7 +27,7 @@ Launcher: [AthermoBase Launcher](https://github.com/MarcinDoga/AthermoBase)
 
 ## Screenshots from the previous version:
 
-![Gameplay - trees and shadows](ThermoriaVerse/images/image1.png)
+![Gameplay - trees and shadows](images/image1.png)
 trees and shadows
 #
 ![Gameplay - flying around the granite mountains](ThermoriaVerse/images/image2.png)

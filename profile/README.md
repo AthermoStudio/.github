@@ -1,5 +1,5 @@
 # ThermoriaVerse Project
-[Polski](.github/profile/README_PL.md)
+[Polski](./README_PL.md)
 
 **A work-in-progress sandbox game focused on exploration, progression, and achievements, is build here using C#.**
 

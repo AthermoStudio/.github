@@ -1,7 +1,7 @@
-# ThermoriaVerse
+# ThermoriaVerse Project
 [Polski](.github/profile/README_PL.md)
 
-**A work-in-progress sandbox game focused on exploration, progression, and achievements, built in C#.**
+**A work-in-progress sandbox game focused on exploration, progression, and achievements, is build here using C#.**
 
 ## Official Description of the game
 As the Architect, journey across a planet crafted from voxels—full of vibrant landscapes, life, and hidden powerful forces.
@@ -13,37 +13,11 @@ Control individual NPCs or observe from above. Help them survive, thrive, fight,
 Every decision has consequences—you can become their savior or their destroyer. Procedural world generation, biomes and vegetation, a dynamic chunk system, and GPU optimization ensure the game runs smoothly even in vast, complex environments with extensive render ranges.
 **ThermoriaVerse** — create your own multiverse.
 
-## Game Vision
-The basic gameplay concept and progress are already established.
-Currently, development is focused on creating the planned experiences for players.
-#
+Launcher: [AthermoBase Launcher](https://github.com/AthermoStudio/AthermoBase)
 
-Launcher: [AthermoBase Launcher](https://github.com/MarcinDoga/AthermoBase)
+ThermoriaVerse page: [ThermoriaVerse](https://github.com/AthermoStudio/ThermoriaVerse)
 
 > **Note:**  
 > This project is in early development.  
 > There is currently no planned release date,  
 > and a public release is not yet guaranteed.
-
-## Screenshots from the previous version:
-
-![Gameplay - trees and shadows](images/image1.png)
-trees and shadows
-#
-![Gameplay - flying around the granite mountains](images/image2.png)
-flying around the granite mountains
-#
-![Gameplay - biomes showcase](images/image3.png)
-biomes showcase
-#
-![Gameplay - flying around the snowy granite mountains](images/image4.png)
-flying around the snowy granite mountains
-#
-![Gameplay - flying around the snowy mountains](images/image5.png)
-flying around the snowy mountains
-#
-![Gameplay - shadows under the trees](images/image6.png)
-shadows under the trees
-#
-![Gameplay - under the pine trees](images/image7.png)
-under the pine trees

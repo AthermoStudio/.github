@@ -16,7 +16,7 @@ Proceduralne generowanie świata, biomy i roślinność, dynamiczny system chunk
 
 Launcher gry: [AthermoBase Launcher](https://github.com/AthermoStudio/AthermoBase)
 
-ThermoriaVerse page: [ThermoriaVerse](https://github.com/AthermoStudio/ThermoriaVerse)
+ThermoriaVerse: [ThermoriaVerse](https://github.com/AthermoStudio/ThermoriaVerse)
 
 > **Uwaga:**
 > Projekt znajduje się na wczesnym etapie rozwoju.
